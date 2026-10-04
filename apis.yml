@@ -39,7 +39,6 @@ apis:
   - name: Covid-19
     description: "Covid 19 cases, deaths and recovery per country"
     humanURL: https://github.com/M-Media-Group/Covid-19-API
-    baseURL: https://github.com/M-Media-Group/Covid-19-API
     tags:
       - Health
     properties:
